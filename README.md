@@ -66,7 +66,7 @@ to run the server and connect to the database.
 
 to install the dependencies.
 
-# Ideas and proporsals to imporove the application
+# Ideas and proporsals to improve the application
 
 1. Create User defined pages.
 2. Implement authorization and authentication for users.
